@@ -1,23 +1,13 @@
-# Mauricio González Soto
+# Lucero Díaz Ortega
 
-**Rol:** Profesor de TC2004B 
-**Especialidad:** Estadistica Bayesiana, Filosofía de la Probabilidad, Machine Learning, Data Science
+## Matricula
+- A01199346
 
-## Sobre mí
-Matemático por el ITAM, 
-Mtro en Data Science por el ITAM
-PhD en CS por el INAOE. 
-Postdoc Universidad de Viena
-Profesor de planta en el Tec de Monterrey.
+## ¿Por qué te interesa Data Science?
+Me interesa Data Science por el aspecto de problem solving y de usar diversas herramientas para facilitar el proceso
 
-## Tech Stack
-- Python, R
-- scikit-learn, PyTorch
-- Git, LaTeX
+## Herramientas que ya conoces
+- Python, R, Github, LaTeX
 
 ## Fun Fact
-Reprobé el examen de admisión al kinder
-
-## Links
-- GitHub: [@mauriciogs99](https://github.com/mauriciogs99)
-- Email: mauricio.gonzalez.soto@tec.mx
+A los 3 años me persiguió una ardilla en Chipinque
